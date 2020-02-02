@@ -1,0 +1,46 @@
+body {
+ background-image: url("dreamliner.jpg");
+ background-color: #cccccc;
+  height: 1000px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+h1 {
+  font-family: Arial, sans-serif;
+  font-weight: lighter;
+  color:#253560;
+  text-align: center;
+}
+
+p {
+  color: red;
+}
+
+div{
+  font-family: Arial, sans-serif;
+  font-weight: lighter;
+  color: white;
+  background-color:#253560;
+  margin: 30px;
+  padding: 30px;
+}
+
+table{
+  text-align: center;
+  margin-top: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+th,td{
+  border: 1px solid black;
+  padding: 10px
+}
